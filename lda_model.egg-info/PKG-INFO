@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: lda-model
+Version: 0.1.1
+Summary: Pretrained LDA Model
+Home-page: https://github.com/VerticaDataScientist/lda_model.git
+Author: Abdel
+Author-email: abdelhak.zabour@vertica.com
+License: MIT

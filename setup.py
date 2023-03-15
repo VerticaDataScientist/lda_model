@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(name='lda_model',
-version='0.1.0',
+version='0.1.1',
 description='Pretrained LDA Model',
 url='https://github.com/VerticaDataScientist/lda_model.git',
 author='Abdel',
